@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author user
+ * @author bodnart
  */
 public class Hazi_09_13_osztalyAtlag_fuggveny {
 
